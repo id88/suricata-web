@@ -11,8 +11,10 @@ node_modules
 dist
 dist-ssr
 *.local
+%USERPROFILE%
 
 # Editor directories and files
+.cursorrules
 .vscode/*
 !.vscode/extensions.json
 .idea
